@@ -6,12 +6,6 @@ import "./IERC1363.sol";
 import "./IERC1363Receiver.sol";
 import "./IERC1363Spender.sol";
 
-import "@openzeppelin/contracts/utils/Address.sol";
-import "@openzeppelin/contracts/introspection/ERC165Checker.sol";
-
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "@openzeppelin/contracts/introspection/ERC165.sol";
-
 /**
  * @title ERC1363
  * @author Vittorio Minacori (https://github.com/vittominacori)
