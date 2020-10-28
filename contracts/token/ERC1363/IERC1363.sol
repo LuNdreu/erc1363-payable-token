@@ -8,6 +8,7 @@ pragma solidity ^0.7.0;
  * @dev Interface for a Payable Token contract as defined in
  *  https://eips.ethereum.org/EIPS/eip-1363
  */
+ 
 interface IERC1363 is IERC20, IERC165 {
     /*
      * Note: the ERC-165 identifier for this interface is 0x4bbee2df.
